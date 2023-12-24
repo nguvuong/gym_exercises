@@ -1,5 +1,5 @@
 import React, {useState} from 'react'
-import Box from '@mui/material';
+import Box from '@mui/material/Box';
 import {Link} from 'react-router-dom'
 import {Stack} from '@mui/material'
 import HeroBanner from '../components/HeroBanner';
